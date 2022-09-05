@@ -1,0 +1,15 @@
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\obj\Debug\net6.0\DesafioIntermediario3.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\obj\Debug\net6.0\DesafioIntermediario3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\obj\Debug\net6.0\DesafioIntermediario3.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\obj\Debug\net6.0\DesafioIntermediario3.AssemblyInfo.cs
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\obj\Debug\net6.0\DesafioIntermediario3.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\bin\Debug\net6.0\DesafioIntermediario3.exe
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\bin\Debug\net6.0\DesafioIntermediario3.deps.json
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\bin\Debug\net6.0\DesafioIntermediario3.runtimeconfig.json
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\bin\Debug\net6.0\DesafioIntermediario3.dll
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\bin\Debug\net6.0\DesafioIntermediario3.pdb
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\obj\Debug\net6.0\DesafioIntermediario3.dll
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\obj\Debug\net6.0\refint\DesafioIntermediario3.dll
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\obj\Debug\net6.0\DesafioIntermediario3.pdb
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\obj\Debug\net6.0\DesafioIntermediario3.genruntimeconfig.cache
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-Pottencial-Desafio-De-Codigo\DesafioIntermediario3\obj\Debug\net6.0\ref\DesafioIntermediario3.dll
