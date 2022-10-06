@@ -1,0 +1,62 @@
+@model IEnumerable<TrilhaApiDesafio.Models.Tarefa>
+
+@{
+    ViewData["Title"] = "Listagem de Tarefas";
+}
+
+<h2>Tarefas</h2>
+
+<p>
+    <a asp-action="Criar">Novo Contato</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>                
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(mode => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(mode => item.Titulo)
+                </td>
+                <td>
+                    @Html.DisplayFor(mode => item.Descricao)
+                </td>
+                <td>
+                    @Html.DisplayFor(mode => item.Data)
+                </td>
+                <td>
+                    @Html.DisplayFor(mode => item.Status)
+                </td>
+                <td>
+                    <a asp-action="Editar" asp-route-id = "@item.Id">Editar</a>
+                    <a asp-action="Detalhes" asp-route-id= "@item.Id">Detalhes</a>
+                    <a asp-action="Deletar" asp-route-id = "@item.Id">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
