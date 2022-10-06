@@ -1,0 +1,15 @@
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\bin\Debug\net6.0\DesafioAvancado1.exe
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\bin\Debug\net6.0\DesafioAvancado1.deps.json
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\bin\Debug\net6.0\DesafioAvancado1.runtimeconfig.json
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\bin\Debug\net6.0\DesafioAvancado1.dll
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\bin\Debug\net6.0\DesafioAvancado1.pdb
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\obj\Debug\net6.0\DesafioAvancado1.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\obj\Debug\net6.0\DesafioAvancado1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\obj\Debug\net6.0\DesafioAvancado1.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\obj\Debug\net6.0\DesafioAvancado1.AssemblyInfo.cs
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\obj\Debug\net6.0\DesafioAvancado1.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\obj\Debug\net6.0\DesafioAvancado1.dll
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\obj\Debug\net6.0\refint\DesafioAvancado1.dll
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\obj\Debug\net6.0\DesafioAvancado1.pdb
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\obj\Debug\net6.0\DesafioAvancado1.genruntimeconfig.cache
+C:\Users\Leo\Desktop\me_deleta\curso-dio-bootcamp-pottencial-dotnet\curso-dio-formacao-dotnet\DesafioAvancado1\obj\Debug\net6.0\ref\DesafioAvancado1.dll

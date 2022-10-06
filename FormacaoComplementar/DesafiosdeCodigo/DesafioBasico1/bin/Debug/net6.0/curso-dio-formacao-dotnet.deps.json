@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "curso-dio-formacao-dotnet/1.0.0": {
+        "runtime": {
+          "curso-dio-formacao-dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "curso-dio-formacao-dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
