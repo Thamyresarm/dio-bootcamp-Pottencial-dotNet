@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leo\\Desktop\\me_deleta\\curso-dio-bootcamp-pottencial-dotnet\\curso-dio-formacao-dotnet\\DesafioAvancado3\\DesafioAvancado3.csproj": {}
+    "C:\\Users\\thamyres.mesquita\\Downloads\\Organizando\\dio-bootcamp-Pottencial-dotNet\\FormacaoComplementar\\DesafiosdeCodigo\\DesafioAvancado3\\DesafioAvancado3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leo\\Desktop\\me_deleta\\curso-dio-bootcamp-pottencial-dotnet\\curso-dio-formacao-dotnet\\DesafioAvancado3\\DesafioAvancado3.csproj": {
+    "C:\\Users\\thamyres.mesquita\\Downloads\\Organizando\\dio-bootcamp-Pottencial-dotNet\\FormacaoComplementar\\DesafiosdeCodigo\\DesafioAvancado3\\DesafioAvancado3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leo\\Desktop\\me_deleta\\curso-dio-bootcamp-pottencial-dotnet\\curso-dio-formacao-dotnet\\DesafioAvancado3\\DesafioAvancado3.csproj",
+        "projectUniqueName": "C:\\Users\\thamyres.mesquita\\Downloads\\Organizando\\dio-bootcamp-Pottencial-dotNet\\FormacaoComplementar\\DesafiosdeCodigo\\DesafioAvancado3\\DesafioAvancado3.csproj",
         "projectName": "DesafioAvancado3",
-        "projectPath": "C:\\Users\\Leo\\Desktop\\me_deleta\\curso-dio-bootcamp-pottencial-dotnet\\curso-dio-formacao-dotnet\\DesafioAvancado3\\DesafioAvancado3.csproj",
-        "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leo\\Desktop\\me_deleta\\curso-dio-bootcamp-pottencial-dotnet\\curso-dio-formacao-dotnet\\DesafioAvancado3\\obj\\",
+        "projectPath": "C:\\Users\\thamyres.mesquita\\Downloads\\Organizando\\dio-bootcamp-Pottencial-dotNet\\FormacaoComplementar\\DesafiosdeCodigo\\DesafioAvancado3\\DesafioAvancado3.csproj",
+        "packagesPath": "C:\\Users\\thamyres.mesquita\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thamyres.mesquita\\Downloads\\Organizando\\dio-bootcamp-Pottencial-dotNet\\FormacaoComplementar\\DesafiosdeCodigo\\DesafioAvancado3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\thamyres.mesquita\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

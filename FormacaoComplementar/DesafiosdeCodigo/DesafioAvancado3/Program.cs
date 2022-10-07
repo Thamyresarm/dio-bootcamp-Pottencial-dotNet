@@ -1,40 +1,24 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
-class Program
+class PedroBentoEOMundoDeOZ
 {
-
     static void Main(string[] args)
     {
-        int tipos = 1;
-        int tot = 0;
-        int i = 0;
-        string[] joias = new string[106];
-
-        while (tot < 106)
+        string joia = "";
+        List<string> joias = new List<string>();
+        do
         {
-            var input = Console.ReadLine();
-            tot += input.Length;
-            joias[i] = input;
-
-            for (int j = 0; j < i; j++)
+            joia = Console.ReadLine();
+            if (!string.IsNullOrWhiteSpace(joia))
             {
-                if (input.Equals(joias[j]))
-                {
-                    j = i;
-                }
-                else {
-                    if((j + 1) == i ){
-                        tipos++;
-                    }
-                }
+                joias.Add(joia);
             }
-            i++;
+            else break;
         }
-        for (int j = 0; j < joias.Length; j++)
-        {
-            Console.Write(joias[j] + " ");
-        }
-        Console.WriteLine(tipos);
+        while (true);
+        IEnumerable<string> distinctJewels = joias.Distinct();
+        Console.WriteLine(distinctJewels.Count());
     }
-
 }
