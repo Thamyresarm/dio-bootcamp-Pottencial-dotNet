@@ -15,7 +15,7 @@ Repositório Criado para inserir os desafios de códigos realizados no Bootcamp 
 
 <h3>Autor</h3>
 
-<a href="https://www.linkedin.com/in/cami-la/">
+<a href="https://www.linkedin.com/in/thamyres.magalhaes/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Camila Cavalcante</b></sub></a> <a href="https://www.instagram.com/camimi_la/" title="Instagram"></a>
