@@ -18,6 +18,7 @@ Repositório Criado para inserir os desafios de códigos realizados no Bootcamp 
 <a href="https://www.linkedin.com/in/thamyres-magalhaes/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/24790794?v=4" width="100px;" alt=""/>
  <br />
+ <sub><b>Thamyres Magalães</b></sub></a> <a href="https://www.linkedin.com/in/thamyres-magalhaes/" title="LinkedIn"></a>
  
 Feito por Thamyres Magalhães 👋🏽 Entre em contato!
 
