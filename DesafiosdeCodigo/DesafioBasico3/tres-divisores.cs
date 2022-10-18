@@ -11,7 +11,7 @@ class Solution {
             if (n % i == 0) {
                 count++;
             }
-            if (count > 3) {
+            if (count > i) {
                 Console.WriteLine(false);
             }
         }
