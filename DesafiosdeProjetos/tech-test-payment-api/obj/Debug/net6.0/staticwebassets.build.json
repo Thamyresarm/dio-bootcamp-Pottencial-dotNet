@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TT9mUa9vpqo5j1jBKtMmIx/WY5BIF6qqVcHQ5Dk2FeA=",
+  "Source": "tech-test-payment-api",
+  "BasePath": "_content/tech-test-payment-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
