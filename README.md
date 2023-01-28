@@ -1,6 +1,8 @@
 # Bootcamp Pottencial .Net
 Repositório Criado para inserir os desafios de códigos realizados no Bootcamp da Pottencial com foco em dotNet e também com a Formação .Net para continuar com o aprendizado.
 
+![image](https://user-images.githubusercontent.com/24790794/215229356-14e757a2-a844-4bbf-9e69-715a0c8f284c.png)
+
 ![image](https://user-images.githubusercontent.com/24790794/194615954-8197f78e-2223-4884-acf1-e083a86d2424.png)
 
 ## 🛠️ Ferramentas
